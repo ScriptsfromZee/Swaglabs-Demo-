@@ -25,3 +25,5 @@ Removing from Cart: Items can also be removed from the cart, allowing users to m
 Automation and Testing: Swag Labs is often used in automated testing scenarios, particularly with tools like Cypress or Selenium, to validate e-commerce functionalities.
 
 Demo for Developers: It serves as a practical demo for developers and testers to practice and showcase their skills in web application testing.
+
+The scripts present here were written using Cypress. 
