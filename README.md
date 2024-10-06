@@ -38,7 +38,7 @@ Open a command line terminal (Git bash preferrably) and navigate to a directory 
 
 Clone the repository with git clone https://github.com/ScriptsfromZee/Swaglabs-Demo-
 
-To get the current working tree, git fetch --all, then checkout to "dev" branch.
+To get the current working tree, git fetch --all, then checkout to "main" branch.
 
 Finally, run the test scripts within the login.cy.js file by doing the following:
 
