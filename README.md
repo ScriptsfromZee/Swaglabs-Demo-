@@ -19,11 +19,32 @@ Adding to Cart: Users can click on the "Add to Cart" button for each product to 
 
 Removing from Cart: Items can also be removed from the cart, allowing users to manage their selections easily.
 
- Checkout Process: The site simulates the checkout process, providing a realistic experience for testing purposes.
+Checkout Process: The site simulates the checkout process, providing a realistic experience for testing purposes.
  
 ## Testing and Development
 Automation and Testing: Swag Labs is often used in automated testing scenarios, particularly with tools like Cypress or Selenium, to validate e-commerce functionalities.
 
-Demo for Developers: It serves as a practical demo for developers and testers to practice and showcase their skills in web application testing.
-
 The scripts present here were written using Cypress. 
+
+## Prerequisites
+Have an IDE installed on your computer to be able to view the code locally.
+
+Have a good working knowledge of Git and Github and well as JavaScript.
+
+Have a browser installed on your computer.
+
+## Setup
+Open a command line terminal (Git bash preferrably) and navigate to a directory where you would like to save the work folder using cd.
+
+Clone the repository with git clone https://github.com/ScriptsfromZee/Swaglabs-Demo-
+
+To get the current working tree, git fetch --all, then checkout to "dev" branch.
+
+Finally, run the test scripts within the login.cy.js file by doing the following:
+
+Navigate to the root directory with a command line terminal.
+
+Run npm install, this install all the project dependencies.
+
+If you have chrome installed run npm run cy-chrome or npm run cy-firefox if you have firefox installed to start the test.
+
